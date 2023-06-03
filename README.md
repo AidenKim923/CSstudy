@@ -11,7 +11,7 @@
 * Binary Search Tree(이진탐색트리)
 * Hash
 * Map과 HashMap
-* List와 Vector의 차이점
+* [List와 Vector의 차이점](https://velog.io/@devaiden/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-List%EC%99%80-Vector%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * Trie(트라이)
 * B-Tree & B+Tree
 * STL이란?
