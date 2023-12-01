@@ -58,8 +58,8 @@
 * Name Mangling
 * Call by value 와 Call by reference의 차이점
 * C#과 C++언어의 차이점
-* 객체지향이란?
-* 객체지향 4대 특징
+* [객체지향이란?](https://devaiden.tistory.com/10)
+* [객체지향 4대 특징](https://devaiden.tistory.com/10)
 * 포인터란?
 * 멀티쓰레드란?
 * 프로세스와 스레드의 차이점
