@@ -47,7 +47,7 @@
 * static
 * 가상 소멸자를 사용하는 이유
 * 상등성과 동등성 차이
-* C++에서 map과 unordered_map의 차이
+* [C++에서 map과 unordered_map의 차이](https://devaiden.tistory.com/19)
 * <algorithm>의 sort와 list.sort
 * C++ 캐스팅
 * template의 장단점
