@@ -55,7 +55,7 @@
 * L-value - R-value
 * Move Semantics - 이동 의미론
 * 스마트포인터
-* Name Mangling
+* [Name Mangling](https://devaiden.tistory.com/26)
 * Call by value 와 Call by reference의 차이점
 * C#과 C++언어의 차이점
 * [객체지향이란?](https://devaiden.tistory.com/10)
