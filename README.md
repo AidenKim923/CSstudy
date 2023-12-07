@@ -39,7 +39,7 @@
 * 가상 함수
 * 입출력 최적화하기
 * Vector Container
-* struct와 class 차이
+* [struct와 class 차이](https://devaiden.tistory.com/30)
 * 포인터와 배열의 차이
 * malloc/free vs new/delete
 * 오버로딩/오버라이딩
